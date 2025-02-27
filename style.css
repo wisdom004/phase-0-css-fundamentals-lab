@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color:red;
+  text-align: center;
+}
+figure{
+  text-align:center;
+}
+nav{
+  text-align: center;
+}
+nav a{
+  padding: 10px;
+
+}
+section{
+  #featured-property:800px
+}
+div{
+  float:left;
+  background-color: aliceblue;
+  text-align: center;
+  width:25%;}
